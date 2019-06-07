@@ -1,0 +1,11 @@
+C:\Users\t.roelofs\source\repos\TR.HTTP2\HTTP1\HTTP1\bin\Debug\netcoreapp2.0\HTTP1.deps.json
+C:\Users\t.roelofs\source\repos\TR.HTTP2\HTTP1\HTTP1\bin\Debug\netcoreapp2.0\HTTP1.runtimeconfig.json
+C:\Users\t.roelofs\source\repos\TR.HTTP2\HTTP1\HTTP1\bin\Debug\netcoreapp2.0\HTTP1.runtimeconfig.dev.json
+C:\Users\t.roelofs\source\repos\TR.HTTP2\HTTP1\HTTP1\bin\Debug\netcoreapp2.0\HTTP1.dll
+C:\Users\t.roelofs\source\repos\TR.HTTP2\HTTP1\HTTP1\bin\Debug\netcoreapp2.0\HTTP1.pdb
+C:\Users\t.roelofs\source\repos\TR.HTTP2\HTTP1\HTTP1\obj\Debug\netcoreapp2.0\HTTP1.csprojAssemblyReference.cache
+C:\Users\t.roelofs\source\repos\TR.HTTP2\HTTP1\HTTP1\obj\Debug\netcoreapp2.0\HTTP1.csproj.CoreCompileInputs.cache
+C:\Users\t.roelofs\source\repos\TR.HTTP2\HTTP1\HTTP1\obj\Debug\netcoreapp2.0\HTTP1.AssemblyInfoInputs.cache
+C:\Users\t.roelofs\source\repos\TR.HTTP2\HTTP1\HTTP1\obj\Debug\netcoreapp2.0\HTTP1.AssemblyInfo.cs
+C:\Users\t.roelofs\source\repos\TR.HTTP2\HTTP1\HTTP1\obj\Debug\netcoreapp2.0\HTTP1.dll
+C:\Users\t.roelofs\source\repos\TR.HTTP2\HTTP1\HTTP1\obj\Debug\netcoreapp2.0\HTTP1.pdb

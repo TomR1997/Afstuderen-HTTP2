@@ -1,0 +1,27 @@
+﻿@model IEnumerable<HTTP1.Models.Holiday>
+
+@{
+	ViewData["Title"] = "Holiday";
+}
+
+<h1>Holiday</h1>
+
+<div class="container">
+	<div class="row">
+
+		@foreach (var item in Model)
+		{
+			<div class="col-sm">
+				<div class="card" style="width: 18rem">
+					<img class="card-img-top" src=@Html.DisplayTextFor(modelItem => item.Images[new Random().Next(0, item.Images.Count)])>
+					<div class="card-body">
+						<h5 class="card-title">@Html.DisplayTextFor(modelItem => item.Country)</h5>
+						<p class="card-text">@Html.DisplayTextFor(modelItem => item.Location)</p>
+						<a asp-action="Detail" class="btn btn-primary">View details</a>
+					</div>
+				</div>
+			</div>
+		}
+
+	</div>
+</div>
